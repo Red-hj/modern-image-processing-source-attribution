@@ -1,0 +1,9 @@
+program,state,action,n,C,W,R
+raw,noisy,set,234,151,49,34
+raw,noisy,winner,234,196,4,34
+raw,restormer,set,234,157,54,23
+raw,restormer,winner,234,206,5,23
+delta,noisy,set,234,171,41,22
+delta,noisy,winner,234,197,15,22
+delta,restormer,set,234,165,52,17
+delta,restormer,winner,234,205,12,17

@@ -1,0 +1,7 @@
+material,domain,score,n,before,after,lost,gained
+CSAFE,all,full,234,215,203,13,1
+CSAFE,all,D,234,218,221,2,5
+ForensiCam,indoor,full,80,46,56,4,14
+ForensiCam,indoor,D,80,64,57,7,0
+ForensiCam,outdoor,full,80,46,46,5,5
+ForensiCam,outdoor,D,80,63,59,6,2

@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "score_scope": "saved scalar values, not residual-product tensors or new model inference",
+  "sources": {
+    "core_saved_scores": {
+      "sha256": "d2197bf5edf03f0f3567788d4cf2d233644ac933e4e7cdad87704cf4ab38c7be",
+      "bytes": 2720277
+    },
+    "core_recorded_cutoffs": {
+      "sha256": "ccf3bc16481920ce10a1e56abd3fd3257deea264d63dcb729fa741b695795779",
+      "bytes": 23570
+    },
+    "additional_parent_roles": {
+      "sha256": "59957d1853cdfd561903c97028ae9c8267223c07502d6e7eedb55af289c8440f",
+      "bytes": 941107
+    },
+    "native_parent_flags.csv": {
+      "sha256": "0cb28b027dd7cdb06b653e7c883cc88c88f126913d9a69df46569ff3d5b6cfd4",
+      "bytes": 17131
+    },
+    "native_rank_summary.csv": {
+      "sha256": "f6e0e631f6c82cd435fbc748108e1038391171e73251402879fceebe72e7a14d",
+      "bytes": 142
+    },
+    "conditional_ranges.csv": {
+      "sha256": "2d938238cecae856840b330f03f06b6c4933484431c9f96d7e4f0670410ef4c2",
+      "bytes": 2038
+    },
+    "native_six_state_vectors": {
+      "sha256": "3406270bd4563e3d44c045c7770c0d2a5ce54c80c237a259a672f91fcfc6d494",
+      "bytes": 361250
+    },
+    "paired_conditional_contrasts": {
+      "sha256": "f4a9b1364377e0940fc8282a38769ad31624183120c497a396640dfe91b2688c",
+      "bytes": 327800
+    },
+    "recorded_amplitude_score_archive": {
+      "sha256": "7a2e7da628ce16705b3fb4083565126e2772b0a994b01ca827a55787c01e2d65",
+      "bytes": 19922878
+    },
+    "RAW_EVALUATION_VECTORS.json": {
+      "sha256": "16a724cc135706665c74696bf9627cedaed91b3110a3aa9657eee06b24092d48",
+      "bytes": 1745135
+    },
+    "BOOTSTRAP_WEIGHTS.npz": {
+      "sha256": "5a2594cc144fe7041c58376a508b4c2981c2400bf6def05982c76dc585b7bb81",
+      "bytes": 268045
+    },
+    "AUC_SUMMARY.csv": {
+      "sha256": "b2a299ee80ae7152ad53cf41a30553151307fdd343cdea85cd7347f24b6f11c7",
+      "bytes": 1342
+    },
+    "ROC_DET.csv": {
+      "sha256": "d275c9d51c961793dc78fa8bd798a5a967574be56b1533d60403bceed3bcdecf",
+      "bytes": 2262958
+    },
+    "classical_recorded_vectors": {
+      "sha256": "087616c2a7c80a7467ab6317ca475b0cf23055bc56b78c3bc58622801af30bc1",
+      "bytes": 2549561
+    },
+    "classical_calibration_cutoffs": {
+      "sha256": "e41ef177e4e1abeb7e86662791b016c0f79a5c0ba14f49169c83b505fd35c74e",
+      "bytes": 1086
+    },
+    "classical_parent_roles": {
+      "sha256": "979ade5d26a1fac52e8921be4777424285d2aae532f3dd178e8083b0d2f9ee00",
+      "bytes": 1331511
+    },
+    "raw_calibration_and_evaluation_roles": {
+      "sha256": "8903bfd4ed274fa5177a92f4823adc4a8e67cf1020e31fc5b7050469b9c6b4c6",
+      "bytes": 1669711
+    },
+    "recorded_scalar_component_precision_inputs": {
+      "sha256": "5ef0f9ec39a72b34499410c281cd740e1b8e030831bfa5e6e25c30c84f348f9f",
+      "bytes": 7179910
+    },
+    "recorded_raw_path_parity": {
+      "sha256": "a7394d9afc08dfc366818499134767e8157c3ac19bd9ba59c999f7dae91de520",
+      "bytes": 815998
+    }
+  },
+  "scientific_parent_roles_preserved": true,
+  "original_source_paths_omitted": true,
+  "original_model_training_membership": "unknown",
+  "new_independent_confirmation": false
+}

@@ -1,0 +1,5 @@
+domain,program,n,before,after,lost,gained
+indoor,D+L,80,51,58,4,11
+indoor,D,80,74,68,7,1
+outdoor,D+L,80,36,36,3,3
+outdoor,D,80,68,63,7,2

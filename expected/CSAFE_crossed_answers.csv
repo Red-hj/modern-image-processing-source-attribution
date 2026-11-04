@@ -1,0 +1,9 @@
+state,cutoff_state,action,n,C,W,R
+noisy,noisy,set,234,152,67,15
+noisy,noisy,winner,234,211,8,15
+noisy,restormer,set,234,179,1,54
+noisy,restormer,winner,234,179,1,54
+restormer,noisy,set,234,65,166,3
+restormer,noisy,winner,234,203,28,3
+restormer,restormer,set,234,160,22,52
+restormer,restormer,winner,234,176,6,52

@@ -1,0 +1,5 @@
+score,restorer,baseline,amplitude_only,structure_only,restored
+D+L,bm3d,215,200,209,203
+D+L,restormer,215,199,212,203
+D,bm3d,218,218,222,222
+D,restormer,218,218,221,221
