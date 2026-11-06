@@ -33,15 +33,15 @@
     "README.md": "58f2d92e41e937684af463387013c6f4cc0128dcde4a4320c37dc95b92176122",
     "README_zh.md": "0dd9150ecce3c15509c9bfaf43ebf7fa66ffaf51531767fb415b8194d5e8f4b4",
     "requirements.txt": "6a01e1072f56444b93aeae75187eeb13a3332988476b76279219812d741b79d4",
-    "scripts/check_package.py": "45477df5919752e0dad62290ec9c58daca8beb58eb304503127ef8caa8c7e110",
-    "scripts/plot_raw_paths.py": "c7b5d1c12e75c753d44d326db51b3966260dbfd06b73709bc1dbe7b12e12afb1",
-    "scripts/plot_verification.py": "f02d08b7555cf2fb2f5d920cd14ffd3263dc0d2c0e469ba1c3cb38f1cd7a7d4a",
-    "scripts/reproduce.py": "c897105a67592a9f7b4f6bae0895f943baee93429826d41932797bd2c7702893",
-    "scripts/reproduce_paths_precision.py": "0959f42eac428c5aff45e99a24d93bbfe5ce93a9b62cd906f0a1dbcd6dd7a385",
+    "scripts/check_package.py": "5f9af8efc44e249e2499a6495a7addffe7366b6df4cfda9e8b97d00d2c48a70c",
+    "scripts/plot_raw_paths.py": "fb796f7cf1ad47e879651663a6a0ed99721217f5789d980208c4f3e200740350",
+    "scripts/plot_verification.py": "fe21e4d0189e27a9220cdc4e3341254318bef2c116ae28ce72679f7f10b2a506",
+    "scripts/reproduce.py": "fb55b9abfdd0035cba1a237833cc8a6809f03f000f7c0773d7f1f55cfa80dfe2",
+    "scripts/reproduce_paths_precision.py": "aeb17cb1466a5d29a21edcc10e2c24e75dc72854e713ab0cb5f8c1be17c41366",
     "src/camera_attribution/__init__.py": "cc21c86ee0197cb404a6493477c9e78e6ae62ad4a5b7f7585ecb059defb370fb",
-    "src/camera_attribution/scoring.py": "282f95a274a115ee6197bc5f29ca2ad38339c14d116f6792396c1dad80ee37d7",
-    "src/camera_attribution/uncertainty.py": "a8e90ec392fda6ec1b65f81cf7fddf8c6dab66b98ac79d0f2ef65cfc0d01ccae",
-    "src/camera_attribution/verification.py": "6d5849f63c50bcb38f39cf7a180a82fb19f8a59f9047bd30776eb6c13fae4313"
+    "src/camera_attribution/scoring.py": "21d6fca59d2fd0c98e033455553b31b6830319637db36571a09756c8e9d1b9cd",
+    "src/camera_attribution/uncertainty.py": "26c89cc95dd8af9a81da0fa8ede4fcfa68dfa127e0922914250b869ef3e9fc21",
+    "src/camera_attribution/verification.py": "9db70e3ad195201473a9327c211998c05b25dffc45b464d500f21b4808bc188f"
   },
   "image_residual_neural_inference": 0
 }

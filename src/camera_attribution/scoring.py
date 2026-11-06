@@ -25,11 +25,15 @@ def candidate_scale(scores,divisors):
 
 def decision(scores,truth,cutoff,action):
     accepted=[j for j,x in enumerate(scores) if x>=cutoff]
-    highest=max(scores);win=[j for j,x in enumerate(scores) if x==highest]
-    k=strict_correct(scores,truth);j=int(k and highest<cutoff)
+    highest=max(scores)
+    win=[j for j,x in enumerate(scores) if x==highest]
+    k=strict_correct(scores,truth)
+    j=int(k and highest<cutoff)
     m=int(k and highest>=cutoff and len(accepted)>1)
-    if action=='winner':accepted=win if len(win)==1 and highest>=cutoff else []
-    elif action!='set':raise ValueError('Choose set or winner.')
+    if action=='winner':
+        accepted=win if len(win)==1 and highest>=cutoff else []
+    elif action!='set':
+        raise ValueError('Choose set or winner.')
     status='W' if any(i!=truth for i in accepted) else 'C' if accepted else 'R'
     assert int(status=='C')==k-j-(m if action=='set' else 0)
     return dict(status=status,mask=sum(1<<i for i in accepted),K=k,J=j,M=m)
